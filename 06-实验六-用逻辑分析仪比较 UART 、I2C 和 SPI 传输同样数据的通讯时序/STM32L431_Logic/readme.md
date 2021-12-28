@@ -11,7 +11,7 @@
     PB6                     SCL
     PB7                     SDA
     PA1                             SCK
-    PA7                             MOSI
+    PA12                            MOSI
 
 # 参考资料
 
